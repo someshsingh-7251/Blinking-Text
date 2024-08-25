@@ -19,9 +19,13 @@ Follow these instructions to set up and run the project on your local machine.
   
 2. Installation
 
-    a. Clone the repository: git clone https://github.com/someshsingh-7251/blinking-text.git
+    a. Clone the repository:
+
+       git clone https://github.com/someshsingh-7251/blinking-text.git
    
-    b. Navigate to the project directory: cd blinking-text
+    b. Navigate to the project directory:
+
+       cd blinking-text
    
 USAGE
 1. Open the index.html file in your web browser to view the blinking text effect.
@@ -49,7 +53,7 @@ Here's a basic example of the code used:
     </html>
     style.css
 
-css
+style.css
 
     @keyframes blink {
     50% {
