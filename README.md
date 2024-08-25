@@ -1,4 +1,4 @@
-                                 Blinking Text
+                          Blinking Text
                         
 This project demonstrates how to create a blinking text effect using HTML and CSS.
 
